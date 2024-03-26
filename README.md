@@ -1,7 +1,7 @@
 **<h1> Trading Simulation Project</h1>**
 
 <h3>Description</ins></h3>
-This projects aims to validate a trading strategy based on "Fearful" and "Greedy" market sentiments based on historical VIX.
+This projects aims to validate a trading strategy with the use of "Fearful" and "Greedy" market sentiments based on historical VIX.
 
 <h3>Tools</h3>
 

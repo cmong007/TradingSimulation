@@ -9,7 +9,7 @@ This projects aims to validate a trading strategy based on "Fearful" and "Greedy
 
 <h3>Data set</h3>
 
-- [ADJ_CLOSE.csv]()
+- [ADJ_CLOSE.csv](https://drive.google.com/file/d/12F552r608tpFxb7cbatRvJ5qhHOX3TTN/view?usp=sharing)
 
 <h4>Data exploration</h4>
 
@@ -34,12 +34,15 @@ Based on simulation phase the top 5 performing stocks were tickers #145 , #1555 
 
 Simulation profits:
 </br>
-<img src = ''/>
-</br>
+<img src = 'https://github.com/cmong007/TradingSimulation/assets/135245393/3d1af863-cfa0-4882-a56b-5c083fb1c646'/>
+<br>
 Validation profits:
 </br>
-<img src =''/>
+<img src = 'https://github.com/cmong007/TradingSimulation/assets/135245393/a5d0bbc8-163b-4e9f-bccb-a2229ec99122'/>
 
+</br>
+The annual returns for these stocks were excellent during the simulation period (1991-2010) as seen above, returns were significantly lower during the validation period (2010-2020).
+This shows that past performance is indeed not indicative of future performance and the trading strategy would not work all the time. 
 
 
 
